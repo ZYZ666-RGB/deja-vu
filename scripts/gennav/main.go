@@ -119,6 +119,7 @@ var groups = []group{
 		{"memory-for-goose.html", "Goose"},
 		{"memory-for-grok.html", "Grok Build"},
 		{"memory-for-hermes.html", "Hermes"},
+		{"memory-for-jetbrains.html", "JetBrains AI Assistant"},
 		{"memory-for-junie.html", "Junie"},
 		{"memory-for-kilocode.html", "Kilo Code"},
 		{"memory-for-kimchi.html", "Kimchi Coding"},
