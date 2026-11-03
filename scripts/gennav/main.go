@@ -96,6 +96,7 @@ var groups = []group{
 		{"delete-pi-session-history.html", "pi"},
 		{"delete-crush-session-history.html", "Crush"},
 		{"delete-hermes-session-history.html", "Hermes"},
+		{"delete-cherrystudio-session-history.html", "Cherry Studio"},
 	}},
 	{title: "Per-agent guides", fold: true, links: []link{
 		{"memory-for-aider.html", "aider"},
